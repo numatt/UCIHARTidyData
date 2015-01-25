@@ -1,211 +1,211 @@
 # DATA DICTIONARY - Tidy UCI HAR Dataset
 
-**Subject**
-	The subject who performed the activity
+**Subject**  
+The subject who performed the activity
 
-**Activity**
-	The activity performed, of:
-		LAYING
-		SITTING
-		STANDING
-		WALKING
-		WALKING_DOWNSTAIRS
-		WALKING_UPSTAIRS
+**Activity**  
+The activity performed, of:
+* LAYING
+* SITTING
+* STANDING
+* WALKING
+* WALKING_DOWNSTAIRS
+* WALKING_UPSTAIRS
 
-**Time.Body.Acc.X.Mean**
+**Time.Body.Acc.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Y.Mean**
+**Time.Body.Acc.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Z.Mean**
+**Time.Body.Acc.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.X.Std**
+**Time.Body.Acc.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Y.Std**
+**Time.Body.Acc.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Z.Std**
+**Time.Body.Acc.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the body component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.X.Mean**
+**Time.Gravity.Acc.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Y.Mean**
+**Time.Gravity.Acc.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Z.Mean**
+**Time.Gravity.Acc.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.X.Std**
+**Time.Gravity.Acc.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Y.Std**
+**Time.Gravity.Acc.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Z.Std**
+**Time.Gravity.Acc.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the gravity component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.X.Mean**
+**Time.Body.Acc.Jerk.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Y.Mean**
+**Time.Body.Acc.Jerk.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Z.Mean**
+**Time.Body.Acc.Jerk.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.X.Std**
+**Time.Body.Acc.Jerk.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Y.Std**
+**Time.Body.Acc.Jerk.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Z.Std**
+**Time.Body.Acc.Jerk.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Gyro.X.Mean**
+**Time.Body.Gyro.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Y.Mean**
+**Time.Body.Gyro.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Z.Mean**
+**Time.Body.Gyro.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.X.Std**
+**Time.Body.Gyro.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Y.Std**
+**Time.Body.Gyro.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Z.Std**
+**Time.Body.Gyro.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.X.Mean**
+**Time.Body.Gyro.Jerk.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Y.Mean**
+**Time.Body.Gyro.Jerk.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Z.Mean**
+**Time.Body.Gyro.Jerk.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.X.Std**
+**Time.Body.Gyro.Jerk.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Y.Std**
+**Time.Body.Gyro.Jerk.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Z.Std**
+**Time.Body.Gyro.Jerk.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Acc.Mag.Mean**
+**Time.Body.Acc.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Mag.Std**
+**Time.Body.Acc.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the body component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Mag.Mean**
+**Time.Gravity.Acc.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the gravity component of the accelerometer readings in the time domain
 
-**Time.Gravity.Acc.Mag.Std**
+**Time.Gravity.Acc.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the gravity component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Mag.Mean**
+**Time.Body.Acc.Jerk.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Acc.Jerk.Mag.Std**
+**Time.Body.Acc.Jerk.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the jerk signals of the body component of the accelerometer readings in the time domain
 
-**Time.Body.Gyro.Mag.Mean**
+**Time.Body.Gyro.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Mag.Std**
+**Time.Body.Gyro.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Mag.Mean**
+**Time.Body.Gyro.Jerk.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Time.Body.Gyro.Jerk.Mag.Std**
+**Time.Body.Gyro.Jerk.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the jerk signals of the body component of the gyroscope readings in the time domain
 
-**Frequency.Body.Acc.X.Mean**
+**Frequency.Body.Acc.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Y.Mean**
+**Frequency.Body.Acc.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Z.Mean**
+**Frequency.Body.Acc.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.X.Std**
+**Frequency.Body.Acc.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Y.Std**
+**Frequency.Body.Acc.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Z.Std**
+**Frequency.Body.Acc.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.X.Mean**
+**Frequency.Body.Acc.Jerk.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Y.Mean**
+**Frequency.Body.Acc.Jerk.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Z.Mean**
+**Frequency.Body.Acc.Jerk.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.X.Std**
+**Frequency.Body.Acc.Jerk.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Y.Std**
+**Frequency.Body.Acc.Jerk.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Z.Std**
+**Frequency.Body.Acc.Jerk.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Gyro.X.Mean**
+**Frequency.Body.Gyro.X.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Y.Mean**
+**Frequency.Body.Gyro.Y.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Y dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Z.Mean**
+**Frequency.Body.Gyro.Z.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the Z dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.X.Std**
+**Frequency.Body.Gyro.X.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the X dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Y.Std**
+**Frequency.Body.Gyro.Y.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Y dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Z.Std**
+**Frequency.Body.Gyro.Z.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the Z dimension component of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Acc.Mag.Mean**
+**Frequency.Body.Acc.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Mag.Std**
+**Frequency.Body.Acc.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Mag.Mean**
+**Frequency.Body.Acc.Jerk.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Acc.Jerk.Mag.Std**
+**Frequency.Body.Acc.Jerk.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the jerk signals of the body component of the accelerometer readings in the frequency domain
 
-**Frequency.Body.Gyro.Mag.Mean**
+**Frequency.Body.Gyro.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Mag.Std**
+**Frequency.Body.Gyro.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Jerk.Mag.Mean**
+**Frequency.Body.Gyro.Jerk.Mag.Mean.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the means of the overall magnitude of the jerk signals of the body component of the gyroscope readings in the frequency domain
 
-**Frequency.Body.Gyro.Jerk.Mag.Std**
+**Frequency.Body.Gyro.Jerk.Mag.Std.Mean**
 	For the measurements taken of the subject performing the activity, the mean of the standard devations of the overall magnitude of the jerk signals of the body component of the gyroscope readings in the frequency domain
