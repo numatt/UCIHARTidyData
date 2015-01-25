@@ -4,7 +4,7 @@ generate_codebook <- function(names) {
     
     text <- c(
     "* From the original data set, we only retain features that are immediate means or standard deviations ",
-    "(those whose name end with \"-mean()\" or \"-std()\" in the original data set). We do not include fields with ",
+    "(those whose name contain \"-mean()\" or \"-std()\" in the original data set). We do not include fields with ",
     "further calculations of means or stds\n",
     "* As in the original data set, measurement variables are normalized, and so are unitless. They are bounded by [-1,1]\n",
     "* The cleaning process also includes a step to take the mean of these measurements for each Subject and Activity. ",
