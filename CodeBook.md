@@ -1,16 +1,16 @@
 # DATA DICTIONARY - Tidy UCI HAR Dataset
 
 **Subject**  
-The subject who performed the activity
+> The subject who performed the activity
 
 **Activity**  
-The activity performed, of:
-* LAYING
-* SITTING
-* STANDING
-* WALKING
-* WALKING_DOWNSTAIRS
-* WALKING_UPSTAIRS
+> The activity performed, of:
+> * LAYING
+> * SITTING
+> * STANDING
+> * WALKING
+> * WALKING_DOWNSTAIRS
+> * WALKING_UPSTAIRS
 
 **Time.Body.Acc.X.Mean.Mean**  
 > For the measurements taken of the subject performing the activity, the mean of the means of the X dimension component of the body component of the accelerometer readings in the time domain
