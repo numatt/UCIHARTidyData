@@ -1,3 +1,10 @@
+# Method to generate a CodeBook.md file for the tidy data set
+#    parameter:
+#               names -- character vector of measurement column names. Do not
+#                        include the "Subject" and "Activity" names in the vector
+#    output:
+#               writes the "CodeBook.md" file to the working directory
+#
 generate_codebook <- function(names) {
     # Overview
     string <- "# General Notes\n"

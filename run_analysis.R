@@ -1,3 +1,11 @@
+# Method to clean up the UCI HAR data set
+#    parameter:
+#           fileroot -- path to the top level "UCI HAR Dataset" directory in
+#                       the original data set. If not specified, the working
+#                       directory is used.
+#    output:
+#           returns a data.frame with the tidy data set
+#
 run_analysis <- function(fileroot = getwd()){
     
     # Construct file paths to relevant files
